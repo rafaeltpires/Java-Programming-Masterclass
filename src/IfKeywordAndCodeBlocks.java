@@ -13,7 +13,7 @@ public class IfKeywordAndCodeBlocks
         } else {
             System.out.println("Got here");
         }
-        
+
         // if() else if() else
         if ( score < 5000 && score > 1000 ) {
             System.out.println("Your Score was less than 5000 but greater than 1000");
